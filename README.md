@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
 ### 🌱 I’m currently learning B.S. AI@Southeast University
 ### 💬 Ask me about NLP / AI Bachelor's degree at SEU
 ### 📫 How to reach me: zobppc@gmail.com
