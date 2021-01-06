@@ -5,6 +5,12 @@
 ### 💬 Ask me about NLP / AI Bachelor's degree at SEU
 ### 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-Apple1203%40gmail.com-red)](mailto:zobppc@gmail.com) [![](https://img.shields.io/badge/Telegram-%40Apple1203-blue)](https://t.me/stdafx)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<a href="https://github.com/Apple1203">
+  <img src="https://img.shields.io/github/followers/Apple1203">
+</a>
+<a href="https://github.com/Apple1203">
+   <img src="https://komarev.com/ghpvc/?username=Apple1203">
+</a>
 <!--
 **Apple1203/Apple1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
