@@ -4,7 +4,7 @@
 
 ### 🌱 I’m currently learning B.S. AI@Southeast University
 ### 💬 Ask me about NLP / AI Bachelor's degree at SEU
-### 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-zobppcgmail.com-red)](mailto:zobppc@gmail.com)
+### 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-zobppc@gmail.com-red)](mailto:zobppc@gmail.com)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <!--
 **Apple1203/Apple1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
