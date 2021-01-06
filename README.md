@@ -1,7 +1,5 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ### Hi there 👋
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
-
 ### 🌱 I’m currently learning B.S. AI@Southeast University
 ### 💬 Ask me about NLP / AI Bachelor's degree at SEU
 ### 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-zobppc@gmail.com-red)](mailto:zobppc@gmail.com)
