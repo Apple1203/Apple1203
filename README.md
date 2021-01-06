@@ -14,6 +14,9 @@
    <img src="https://komarev.com/ghpvc/?username=Apple1203">
 </a>
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ---
