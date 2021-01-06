@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning B.S. AI@Southeast University
-### 💬 Ask me about NLP / Bachelor's degree at SEU
+### 💬 Ask me about NLP / AI Bachelor's degree at SEU
 ### 📫 How to reach me: zobppc@gmail.com
 <!--
 **Apple1203/Apple1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
