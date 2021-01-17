@@ -16,7 +16,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other   44 hrs 38 mins  █████████████████████████   99.91 % 
+Other   44 hrs 20 mins  █████████████████████████   99.91 % 
 CSV     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 <!--END_SECTION:waka-->
