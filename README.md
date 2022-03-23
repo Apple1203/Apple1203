@@ -2,6 +2,7 @@
 
 ### 👋 Hi there
 ### 🌱 I’m currently studying B.S. in Artificial Intelligence @ Southeast University
+### :camera: Offered from BDT@HKUST (accepted), CS@HKU
 ### 💬 Ask me about NLP / AI Bachelor's degree at SEU
 ### 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-Apple1203%40gmail.com-red)](mailto:zobppc@gmail.com) [![](https://img.shields.io/badge/Telegram-%40Apple1203-blue)](https://t.me/stdafx)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
