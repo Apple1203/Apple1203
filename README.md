@@ -1,8 +1,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### 👋 Hi there
-### 🌱 I’m currently studying B.S. in Artificial Intelligence @ Southeast University
-### :camera: Offer: BDT@HKUST (accepted), CS@HKU
+### 🌱 I just finished my bachelor degree from Southeast University.
+### :camera: Master offer: BDT@HKUST (accepted), CS@HKU
+### 🔭 I’m currently working with Dr. CHEN at HKUST.
 ### 💬 Ask me about AI Bachelor's degree at SEU, Application process about Hong Kong.
 ### 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-Apple1203-red)](mailto:zobppc@gmail.com) [![](https://img.shields.io/badge/Telegram-%40Apple1203-blue)](https://t.me/stdafx)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -31,7 +32,7 @@ No activity tracked
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
