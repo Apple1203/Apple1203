@@ -2,7 +2,7 @@
 
 ### 👋 Hi there
 ### 🌱 Bachelor: CS(AI)@[SEU](www.seu.edu.cn) 2018.8-2022.6
-### :camera: Master: BDT@HKUST 2022.8-2023.6
+### :camera: Master: BDT@[HKUST](ust.hk) 2022.8-2023.6
 ### 🔭 I will become a Ph.D. student in 23 fall, working with [Prof. Jiguang WANG](https://wang-lab.hkust.edu.hk/), co-supervised by [Prof. Hao CHEN](https://hkustsmartlab.netlify.app/) at HKUST. My research interests is about trustworthy learning and dataset debias. Currently I'm working on mitigating dataset debias.
 ### 💬 Ask me about AI Bachelor's degree at SEU, and life of Msc BDT@HKUST.
 ### 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-Apple1203-red)](mailto:zobppc@gmail.com) [![](https://img.shields.io/badge/Telegram-%40Apple1203-blue)](https://t.me/stdafx)
