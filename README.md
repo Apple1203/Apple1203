@@ -3,7 +3,7 @@
 ### 👋 Hi there
 ### 🌱 Bachelor: [CS(AI)](https://cse.seu.edu.cn)@[Southeast University](https://www.seu.edu.cn) 2018.8-2022.6
 ### :camera: Master: [Big Data Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt)@[HKUST](https://hkust.edu.hk/) 2022.8-2023.6
-### 🔭 I'm a 1-year PhD student in HKUST CBE, working with [Prof. Jiguang WANG](https://wang-lab.hkust.edu.hk/), co-supervised by [Prof. Hao CHEN](https://hkustsmartlab.netlify.app/) at HKUST. My research interests include medical image analysis and deep learning. Currently I'm working on biological foundation models.
+### 🔭 I'm a 1-year PhD student in HKUST CBE, working with [Prof. Jiguang WANG](https://wang-lab.hkust.edu.hk/), co-supervised by [Prof. Hao CHEN](https://hkustsmartlab.netlify.app/). My research interests include medical image analysis and deep learning. Currently I'm working on biological foundation models.
 ### 💬 Ask me about AI Bachelor's degree at SEU, life of Msc BDT@HKUST, and application process about phd.
 ### You can also access [my academic homepage](https://wmh1203.github.io)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
